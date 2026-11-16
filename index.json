@@ -1,0 +1,458 @@
+[
+ {
+  "id": "istvan",
+  "name": "Szent István",
+  "years": "uralk. 997/1000–1038",
+  "period": "Árpád-kor",
+  "clues": [
+   {
+    "img": "👑",
+    "label": "Korona",
+    "note": "1000/1001 fordulóján királlyá koronázták; a koronát a hagyomány szerint II. Szilveszter pápától kapta."
+   },
+   {
+    "img": "⚔️",
+    "label": "Lázadó rokon",
+    "note": "Legyőzte Koppányt, aki a senioratus elve alapján igényelte a hatalmat; testét felnégyelték."
+   },
+   {
+    "img": "⛪🔟",
+    "label": "Tíz templom",
+    "note": "A hagyomány szerint tíz egyházmegyét szervezett, élükön Esztergom érsekségével."
+   },
+   {
+    "img": "📜",
+    "label": "Tanítás a fiúnak",
+    "note": "Az Intelmek fiához, Imre herceghez szólnak az uralkodás erényeiről."
+   },
+   {
+    "img": "🏰",
+    "label": "Vár és terület",
+    "note": "A vármegyerendszer kiépítése: ispánok vezette királyi várak és birtokaik."
+   },
+   {
+    "img": "💧",
+    "label": "Keresztvíz",
+    "note": "Születési neve Vajk volt, az István nevet a keresztségben kapta."
+   }
+  ]
+ },
+ {
+  "id": "bela4",
+  "name": "IV. Béla",
+  "years": "uralk. 1235–1270",
+  "period": "Árpád-kor",
+  "clues": [
+   {
+    "img": "🏹",
+    "label": "Íjászok keletről",
+    "note": "Uralkodása alatt zajlott a tatárjárás (1241–42), a muhi csatavereséggel."
+   },
+   {
+    "img": "🏝️",
+    "label": "Sziget",
+    "note": "A tatárok elől Dalmáciába, Trau (Trogir) melletti szigetre menekült."
+   },
+   {
+    "img": "🏰",
+    "label": "Kőfalak",
+    "note": "A pusztítás után kővárak építését szorgalmazta a földvárak helyett."
+   },
+   {
+    "img": "2️⃣🏠",
+    "label": "Kettes ház",
+    "note": "„Második honalapítóként” emlegetik az ország újjáépítése miatt."
+   },
+   {
+    "img": "🙏",
+    "label": "Fogadalom",
+    "note": "Leányát, Margitot fogadalomból Istennek ajánlotta; róla kapta nevét a Margit-sziget."
+   },
+   {
+    "img": "⛺",
+    "label": "Sátrak",
+    "note": "Behívta a kunokat (Kötöny népét), később a tatárjárás után újra betelepítette őket."
+   }
+  ]
+ },
+ {
+  "id": "lajos1",
+  "name": "Nagy Lajos",
+  "years": "uralk. 1342–1382",
+  "period": "Anjou-kor",
+  "clues": [
+   {
+    "img": "🍫",
+    "label": "Nápolyi szelet",
+    "note": "Két nápolyi hadjáratot vezetett (1347–48, 1350) öccse, András meggyilkolása miatt."
+   },
+   {
+    "img": "🛡️💪",
+    "label": "Erős vitéz",
+    "note": "Toldi Miklós, Arany János hőse; valóságos alakja Lajos korában szolgált."
+   },
+   {
+    "img": "🦅👑",
+    "label": "Fehér sas koronával",
+    "note": "1370-től lengyel király is volt (perszonálunió); a fehér sas a lengyel címer."
+   },
+   {
+    "img": "🌊🌊🌊",
+    "label": "Három hullám",
+    "note": "A hagyomány szerint országát „három tenger mosta” — erős túlzás, de ma is ismert szólás."
+   },
+   {
+    "img": "🎓",
+    "label": "Egyetem",
+    "note": "1367-ben alapította a pécsi egyetemet, az első magyarországit."
+   },
+   {
+    "img": "📜",
+    "label": "Törvény 1351",
+    "note": "Az 1351-es törvények: ősiség, egységes kilenced, „egy és ugyanazon nemesi szabadság”."
+   }
+  ]
+ },
+ {
+  "id": "hunyadi",
+  "name": "Hunyadi János",
+  "years": "kormányzó 1446–1452, †1456",
+  "period": "Hunyadiak kora",
+  "clues": [
+   {
+    "img": "🔔",
+    "label": "Délben szól",
+    "note": "A déli harangszót III. Kallixtusz pápa rendelte el imára; később Nándorfehérvár emlékévé vált."
+   },
+   {
+    "img": "🏰",
+    "label": "Ostromlott vár",
+    "note": "1456-ban megvédte Nándorfehérvárt II. Mehmed seregével szemben."
+   },
+   {
+    "img": "🌊⚔️",
+    "label": "Csata a tengerparton",
+    "note": "1444-ben Várnánál, a Fekete-tenger partján vereség, I. Ulászló király elesett."
+   },
+   {
+    "img": "🏛️",
+    "label": "Hivatal király nélkül",
+    "note": "1446-tól kormányzó V. László kiskorúsága idején."
+   },
+   {
+    "img": "👦👦",
+    "label": "Két fiú",
+    "note": "Fiai: Lászlót 1457-ben lefejezték, Mátyásból király lett."
+   },
+   {
+    "img": "❄️",
+    "label": "Tél",
+    "note": "Az 1443–44-es „hosszú hadjárat” a téli hegyekben zajlott."
+   }
+  ]
+ },
+ {
+  "id": "matyas",
+  "name": "Hunyadi Mátyás",
+  "years": "uralk. 1458–1490",
+  "period": "Hunyadiak kora",
+  "clues": [
+   {
+    "img": "📚",
+    "label": "Kódexek",
+    "note": "Budai könyvtára, a Bibliotheca Corviniana kódexei a Corvinák."
+   },
+   {
+    "img": "🐦💍",
+    "label": "Madár gyűrűvel",
+    "note": "Címerállata a csőrében gyűrűt tartó holló (corvus), innen a Corvinus név."
+   },
+   {
+    "img": "🖤⚔️",
+    "label": "Fekete fegyver",
+    "note": "Állandó zsoldoshadserege, a fekete sereg."
+   },
+   {
+    "img": "🎭",
+    "label": "Álruha",
+    "note": "A népmesékben álruhában járja az országot."
+   },
+   {
+    "img": "⚖️",
+    "label": "Mérleg",
+    "note": "„Meghalt Mátyás király, oda az igazság” — az igazságos király képe."
+   },
+   {
+    "img": "💍🇮🇹",
+    "label": "Itáliai házasság",
+    "note": "Feleségével, Aragóniai Beatrixszal (1476) erősödött az itáliai reneszánsz hatás."
+   }
+  ]
+ },
+ {
+  "id": "bethlen",
+  "name": "Bethlen Gábor",
+  "years": "fejedelem 1613–1629",
+  "period": "Kora újkor",
+  "clues": [
+   {
+    "img": "🎓",
+    "label": "Kollégium",
+    "note": "Megalapította a gyulafehérvári kollégiumot, külföldi egyetemekre küldte a diákokat."
+   },
+   {
+    "img": "💰",
+    "label": "Kincstár",
+    "note": "Merkantilista gazdaságpolitika, állami kereskedelmi monopóliumok."
+   },
+   {
+    "img": "👑❌",
+    "label": "Korona, mégsem",
+    "note": "1620-ban királlyá választották, de nem koronáztatta meg magát."
+   },
+   {
+    "img": "⚔️🔟🔟🔟",
+    "label": "Hosszú háború",
+    "note": "A harmincéves háborúban a protestáns oldalon vezetett hadjáratokat a Habsburgok ellen."
+   },
+   {
+    "img": "⛪",
+    "label": "Hit",
+    "note": "Református fejedelem, a protestáns ügy támogatója."
+   },
+   {
+    "img": "✨🏔️",
+    "label": "Arany a hegyek közt",
+    "note": "Uralkodását Erdély „aranykorának” nevezik."
+   }
+  ]
+ },
+ {
+  "id": "rakoczi",
+  "name": "II. Rákóczi Ferenc",
+  "years": "vezérlő fejedelem 1704–1711",
+  "period": "Kora újkor",
+  "clues": [
+   {
+    "img": "🏳️",
+    "label": "Zászló",
+    "note": "Zászlaján: Cum Deo pro Patria et Libertate — Istennel a hazáért és a szabadságért."
+   },
+   {
+    "img": "⛔👑",
+    "label": "Elutasított korona",
+    "note": "Az 1707-es ónodi országgyűlés kimondta a Habsburg-ház trónfosztását."
+   },
+   {
+    "img": "🏰👩",
+    "label": "Vár és asszony",
+    "note": "Munkács várát anyja, Zrínyi Ilona három évig védte (1685–88)."
+   },
+   {
+    "img": "🐎",
+    "label": "Lovasok",
+    "note": "Szabadságharcának katonái a kurucok."
+   },
+   {
+    "img": "✉️",
+    "label": "Levelek",
+    "note": "Kamarása, Mikes Kelemen Törökországi levelei az emigráció krónikája."
+   },
+   {
+    "img": "🌙",
+    "label": "Félhold",
+    "note": "Száműzetésben, a törökországi Rodostóban halt meg 1735-ben."
+   }
+  ]
+ },
+ {
+  "id": "mariaterezia",
+  "name": "Mária Terézia",
+  "years": "uralk. 1740–1780",
+  "period": "Felvilágosodás kora",
+  "clues": [
+   {
+    "img": "👶🔢",
+    "label": "Sok gyerek",
+    "note": "Tizenhat gyermeket szült; dinasztikus házasságokkal kötötte őket Európa udvaraihoz."
+   },
+   {
+    "img": "📚",
+    "label": "Iskola",
+    "note": "Az 1777-es Ratio Educationis egységesítette a magyarországi oktatást."
+   },
+   {
+    "img": "🌾📜",
+    "label": "Jobbágyrendelet",
+    "note": "Az 1767-es úrbéri rendelet szabályozta a jobbágyterheket."
+   },
+   {
+    "img": "🩸⚔️",
+    "label": "Élet és vér",
+    "note": "1741, Pozsony: a rendek „életünket és vérünket” felajánlással álltak mellé."
+   },
+   {
+    "img": "🗺️✂️",
+    "label": "Elveszett tartomány",
+    "note": "Az örökösödési háborúban Sziléziát elveszítette II. Frigyes porosz királlyal szemben."
+   },
+   {
+    "img": "🚧",
+    "label": "Határ a határon",
+    "note": "Az 1754-es vámrendelet kettős vámhatárt vont, Magyarországot agrárszerepbe szorítva."
+   }
+  ]
+ },
+ {
+  "id": "szechenyi",
+  "name": "Széchenyi István",
+  "years": "1791–1860",
+  "period": "Reformkor",
+  "clues": [
+   {
+    "img": "🌉",
+    "label": "Híd",
+    "note": "Kezdeményezte a Lánchíd építését; a hídvámot a nemeseknek is fizetniük kellett."
+   },
+   {
+    "img": "💳",
+    "label": "Kártya",
+    "note": "Első nagy műve a Hitel (1830)."
+   },
+   {
+    "img": "🐎🏁",
+    "label": "Verseny",
+    "note": "Angol mintára lóversenyeket honosított meg a lótenyésztés javítására."
+   },
+   {
+    "img": "🏛️",
+    "label": "Akadémia",
+    "note": "1825-ben egyévi jövedelmét ajánlotta fel a tudós társaság (MTA) alapítására."
+   },
+   {
+    "img": "🚢",
+    "label": "Gőzös",
+    "note": "Szorgalmazta a dunai gőzhajózást és az Al-Duna szabályozását."
+   },
+   {
+    "img": "🌊",
+    "label": "Folyó",
+    "note": "A Tisza-szabályozás egyik kezdeményezője."
+   }
+  ]
+ },
+ {
+  "id": "kossuth",
+  "name": "Kossuth Lajos",
+  "years": "1802–1894",
+  "period": "Reformkor és 1848–49",
+  "clues": [
+   {
+    "img": "📰",
+    "label": "Újság",
+    "note": "1841-től a Pesti Hírlap szerkesztőjeként vezércikkekkel formálta a közvéleményt."
+   },
+   {
+    "img": "⛓️📕",
+    "label": "Börtön és könyv",
+    "note": "1837-ben letartóztatták; a börtönben angolul tanult."
+   },
+   {
+    "img": "💵",
+    "label": "Bankjegy",
+    "note": "Pénzügyminiszterként adták ki a forradalmi papírpénzt, a „Kossuth-bankót”."
+   },
+   {
+    "img": "🗣️",
+    "label": "Beszéd",
+    "note": "1848. március 3-i pozsonyi felirati javaslata indította el az átalakulást."
+   },
+   {
+    "img": "🛡️",
+    "label": "Védelem",
+    "note": "Az Országos Honvédelmi Bizottmány elnöke, 1849-ben kormányzó-elnök."
+   },
+   {
+    "img": "🎩",
+    "label": "Kalap",
+    "note": "Amerikai útja (1851–52) idején divatba jött az ún. Kossuth-kalap."
+   }
+  ]
+ },
+ {
+  "id": "petofi",
+  "name": "Petőfi Sándor",
+  "years": "1823–1849",
+  "period": "Reformkor és 1848–49",
+  "clues": [
+   {
+    "img": "☕",
+    "label": "Kávéház",
+    "note": "A Pilvax kávéház a márciusi ifjak találkozóhelye volt."
+   },
+   {
+    "img": "🎤",
+    "label": "Szavalat",
+    "note": "1848. március 15-én elszavalta a Nemzeti dalt."
+   },
+   {
+    "img": "🌹",
+    "label": "Rózsa",
+    "note": "Felesége, Szendrey Júlia, a „Szeptember végén” címzettje."
+   },
+   {
+    "img": "🎖️",
+    "label": "Segédtiszt",
+    "note": "Bem tábornok segédtisztje volt az erdélyi hadjáratban."
+   },
+   {
+    "img": "🌾",
+    "label": "Síkság",
+    "note": "Az Alföld költője."
+   },
+   {
+    "img": "🔍",
+    "label": "Nyomozás",
+    "note": "Segesvárnál tűnt el 1849 júliusában; sírját sosem azonosították hitelesen."
+   }
+  ]
+ },
+ {
+  "id": "deak",
+  "name": "Deák Ferenc",
+  "years": "1803–1876",
+  "period": "Kiegyezés kora",
+  "clues": [
+   {
+    "img": "🐣",
+    "label": "Tojás",
+    "note": "Az 1865-ös Húsvéti cikk jelezte a kiegyezési szándékot."
+   },
+   {
+    "img": "🦉",
+    "label": "Bagoly",
+    "note": "„A haza bölcse.”"
+   },
+   {
+    "img": "🤝",
+    "label": "Kézfogás",
+    "note": "Az 1867-es kiegyezés fő magyar formálója."
+   },
+   {
+    "img": "🕊️",
+    "label": "Galamb",
+    "note": "Az ’50-es években a passzív ellenállás jelképes alakja."
+   },
+   {
+    "img": "⚖️",
+    "label": "Mérleg",
+    "note": "1848-ban a Batthyány-kormány igazságügy-minisztere."
+   },
+   {
+    "img": "👑",
+    "label": "Korona",
+    "note": "1867-ben Ferenc Józsefet magyar királlyá koronázták a kiegyezés részeként."
+   }
+  ]
+ }
+]
